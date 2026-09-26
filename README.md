@@ -1,2 +1,2 @@
 # SemProject_MLEngine
-Home Healthcare program
+An AI-Based Self-Management Support System for Chronic Illness Patients
